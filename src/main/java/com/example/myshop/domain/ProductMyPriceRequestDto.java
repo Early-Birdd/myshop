@@ -5,5 +5,5 @@ import lombok.Getter;
 @Getter
 public class ProductMyPriceRequestDto {
 
-    private int myPrice;
+    private int myprice;
 }
